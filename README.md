@@ -28,4 +28,4 @@ TODO List:
 
 Contact Information:
  Gustave Granroth
- granroth@wisc.edu
+ gus.gran@gmail.com
